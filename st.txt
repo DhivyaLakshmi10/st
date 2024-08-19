@@ -231,4 +231,3 @@ for salary,expected_tax in test_cases:
     row.append('Fail')
   res.append(row)
 res
-'''
